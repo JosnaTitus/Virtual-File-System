@@ -4,7 +4,7 @@ In both project, I have made a virtual disk i.e; it works like a hard disk.
 In this project i have used system calls only.
 
 For FS_Baby_Step_1:-
-After you run the code the disk is created and then it ask the user if they want to store any file on disk. If yes, a copy of it is made on the new disk. 
+After you run the code, the disk is created and then it ask the user if they want to store any file on disk. If yes, a copy of it is made on the new disk. 
 
 Commands for running the file-
 			
@@ -12,7 +12,7 @@ Commands for running the file-
 	./myexe
 
 For FS_Baby_Step_2:-
-After you run the code the disk is created and then it ask the user for different options like to store data from actual disk to virtual disk and vice versa. To perform listing operation like ls command in Linux.
+After you run the code, the disk is created and then it ask the user for different options like to store data from actual disk to virtual disk and vice versa. To perform listing operation like ls command in Linux.
 
 Commands for running the file:
 
